@@ -1,2 +1,2 @@
 # Heart
-Create a Heart ASCII using C++
+Create a Heart ASCII using C#
